@@ -13,6 +13,8 @@
 [<img align="left" alt="Visual Studio" width="150px" src="https://maisondu.software/wp-content/uploads/maison-du-software-logo300px.png">](https://maisondu.software/)
 
 <br />
+<br />
+<br />
 
 ### And we're hiring!
 
