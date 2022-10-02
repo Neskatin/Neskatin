@@ -16,20 +16,6 @@
 <br />
 <br />
 
-### And we're hiring!
-
-- <a href="https://maisondu.software/karriere/full-stack-developer-a/">Full Stack Developer (a)</a>
-- <a href="https://maisondu.software/karriere/software-engineer-frontend-a/">Software Engineer Frontend (a)</a>
-- <a href="https://maisondu.software/karriere/software-engineer-backend-a/">Software Engineer Backend (a)</a>
-- <a href="https://maisondu.software/karriere/software-developer-a-cloud-platform-engineering/">Software Developer (a) Cloud Platform Engineering</a>
-- <a href="https://maisondu.software/karriere/junior-software-developer-a/">Junior Software Developer (a)</a>
-- <a href="https://maisondu.software/karriere/hochschulabsolvent-a-als-junior-software-developer/">Hochschulabsolvent (a) als Junior Software Developer</a>
-- <a href="https://maisondu.software/karriere/werkstudent-software-development-a-60-100/">Werkstudent Software Development (a) 60% – 100%</a>
-- <a href="https://maisondu.software/karriere/test-engineer-a/">Test Engineer (a)</a>
-- <a href="https://maisondu.software/karriere/ux-ui-designer-a/">UX/UI Designer (a)</a>
-
-<br />
-
 <!-- ## My Toolbox:
 
 ### IDE's I use:
