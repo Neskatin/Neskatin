@@ -8,6 +8,7 @@
 - 🥅 2022 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I like to eat, sleep, code, repeat. And to a glass of wine I say also not no ;)
 
+<!--
 ## Work at:
 
 [<img align="left" alt="Visual Studio" width="150px" src="https://maisondu.software/wp-content/uploads/maison-du-software-logo300px.png">](https://maisondu.software/)
@@ -16,7 +17,7 @@
 <br />
 <br />
 
-<!-- ## My Toolbox:
+ ## My Toolbox:
 
 ### IDE's I use:
 
