@@ -47,7 +47,7 @@
 
 ## Work at:
 
-[<img align="left" alt="Maison du Software" width="150px" src="https://raw.githubusercontent.com/Neskatin/Neskatin/master/work.webp">](https://maisondu.software/)
+[![Maison du Software](https://raw.githubusercontent.com/Neskatin/Neskatin/master/work.webp "Maison du Software")](https://maisondu.software/)
 
 ---
 
