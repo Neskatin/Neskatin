@@ -13,8 +13,8 @@
 ![](https://img.shields.io/badge/IDE-Rider-informational?style=flat&logo=rider&logoColor=white&color=4473DA)
 ![](https://img.shields.io/badge/IDE-WebStorm-informational?style=flat&logo=webstorm&logoColor=white&color=4473DA)
 ![](https://img.shields.io/badge/IDE-VS%20Code-informational?style=flat&logo=vscode&logoColor=white&color=4473DA)
-![](https://img.shields.io/badge/IDE-GitKraken-informational?style=flat&logo=gitkraken&logoColor=white&color=4473DA)
-![](https://img.shields.io/badge/IDE-Postman-informational?style=flat&logo=postman&logoColor=white&color=4473DA)
+![](https://img.shields.io/badge/Utils-GitKraken-informational?style=flat&logo=gitkraken&logoColor=white&color=4473DA)
+![](https://img.shields.io/badge/Utils-Postman-informational?style=flat&logo=postman&logoColor=white&color=4473DA)
 
 ### Code:
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4473DA)
