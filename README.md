@@ -22,6 +22,8 @@
 
 ### Tools:
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4473DA)
+![](https://img.shields.io/badge/Tools-MS%20SQL-informational?style=flat&logo=mssql&logoColor=white&color=4473DA)
+![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=redis&logoColor=white&color=4473DA)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4473DA)
 ![](https://img.shields.io/badge/Tools-DragonflyDB-informational?style=flat&logo=dragonflydb&logoColor=white&color=4473DA)
 
